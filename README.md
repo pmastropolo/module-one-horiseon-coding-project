@@ -21,9 +21,7 @@ N/A
 
 ## Usage
 
-I was provided a screenshot of what the website was supposed to look like. I have a desktop however, so I hope I've provided accruate calculations to fonts/images. However, if you would like something changed, feel free to contact me. ( I will provide a screenshot of what was sent to me.)
-
-![Horiseon Inspiration Screenshoot](\challprojects)
+Should be able to lookat website demo through the URL I provided. 
 
 ### Changes that I made in HTML & CSS included
 
