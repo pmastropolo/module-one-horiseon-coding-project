@@ -23,7 +23,7 @@ N/A
 
 I was provided a screenshot of what the website was supposed to look like. I have a desktop however, so I hope I've provided accruate calculations to fonts/images. However, if you would like something changed, feel free to contact me. ( I will provide a screenshot of what was sent to me.)
 
-![Horiseon Inspiration Screenshoot](assets\images\horiseonimage.png)
+![Horiseon Inspiration Screenshoot](C:\Users\amyhy\challprojects)
 
 ### Changes that I made in HTML & CSS included
 
