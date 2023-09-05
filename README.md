@@ -4,10 +4,15 @@
 
 I looked into HTML & CSS forms on website and refactored the code to make the website more accessible. I decided to simplfy the code in HTML to a more element stance. By doing this, I believe it'll be easier for the computer to reconginze your site, therefore creating more attention and foot traffic towards your marketing agency. I also refactored the code in CSS, which will benefit your websites accessibility. My goal is to provide your business better foot traffic thus creating new and happy clients.
 
+Was provided with Starter Code and a Mock up Image of what website should look like. 
+
+![Mock Up Image](assets/images/mockupimage.jpg)
+
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [User Story & Assignment](#user-story--assignment-guidelines)
 - [Credits](#credits)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
@@ -21,7 +26,22 @@ N/A
 
 ## Usage
 
-Should be able to lookat website demo through the URL I provided. 
+Github Link: https://github.com/pmastropolo/module-one-horiseon-coding-project
+
+Starter Code: https://github.com/coding-boot-camp/urban-octo-telegram
+
+Deployed Website Link: https://pmastropolo.github.io/module-one-horiseon-coding-project/
+
+## User Story & Assignment Guidelines
+
+![Code Refractor](assets/images/coderefractor.jpg)
+![Getting Started](assets/images/gettingstarted.jpg)
+![Challenges](assets/images/challenges.jpg)
+![Deep Dive](assets/images/deepdive.jpg)
+![Starter Code](assets/images/startercode.jpg)
+![Mock Up Image Section](assets/images/mockupproj.jpg)
+![Mock Up](assets/images/mockupimage.jpg)
+![User Story](assets/images/userstory.jpg)
 
 ### Changes that I made in HTML & CSS included
 
